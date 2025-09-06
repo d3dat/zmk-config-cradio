@@ -661,7 +661,7 @@
 
         ru {
             bindings = <
-  &kp SEMI  &kp K      &kp V      &kp R        &kp X           &kp W               &kp Q       &kp S  &kp LBKT     &kp A
+  &kp SEMI  &kp L      &kp V      &kp R        &kp X           &kp W               &kp Q       &kp S  &kp LBKT     &kp A
   &kp H     &hlt 22 C  &hlt 17 N  &hlt 23 Y    &kp U           &kp G               &kp F       &kp J  &tp TILDE T  &tp SQT B
   &kp P     &kp COMMA  &kp K      &kp D        &kp I           &kp O               &tp RBKT M  &kp E  &kp Z        &kp DOT
                                   &lt 3 SPACE  &lt_esc 21 0    &lt_sym_ru 0 ENTER  &trans
