@@ -902,7 +902,7 @@
   &trans  &trans  &trans  &trans  &trans          &trans  &m_caps_word  &trans      &trans     &trans
   &trans  &trans  &trans  &trans  &trans          &trans  &ssk LSHFT    &ssk LCTRL  &ssk LALT  &ssk LGUI
   &trans  &trans  &trans  &trans  &trans          &trans  &trans        &trans      &trans     &trans
-                          &trans  &kp K_CANCEL    &trans  &trans
+                          &trans  &kp 0           &trans  &trans
             >;
         };
     };
